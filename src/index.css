@@ -2234,17 +2234,26 @@ nav ul li a .button:hover {
   list-style: none;
 }
 
-.contact-container .heading-3,
-.contact-container .heading-4 {
+.contact-container .heading,
+.contact-container .heading1 {
   color: white;
 }
 
-.contact-container .heading-4 {
+.contact-container .heading1 {
   margin-top: 0;
 }
 
-.contact-container .heading-3 {
+.contact-container .heading {
   margin-top: 40px;
+
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: -0.10000000149011612px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .contact-container form {
