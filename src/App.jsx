@@ -16,6 +16,7 @@ import AppDownload from "./componet/AppDownload.jsx";
 import ContactUs from "./componet/ContactUs.jsx";
 import Footer from "./componet/Footer.jsx";
 import Collaboration from "./componet/Collaboration.jsx";
+import AskQuestions from "./componet/AskQuestions.jsx";
 
 const App = () => {
   return (
@@ -31,6 +32,7 @@ const App = () => {
       <HappyClients></HappyClients>
       <Blog></Blog>
       <Testimonial></Testimonial>
+      <AskQuestions></AskQuestions>
 
       <AppDownload></AppDownload>
       <Collaboration></Collaboration>
