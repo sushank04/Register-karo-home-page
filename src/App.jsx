@@ -9,7 +9,7 @@ import Services from "./componet/Services.jsx";
 import About from "./componet/About.jsx";
 import HappyClients from "./HappyClients.jsx";
 import WhyRegisterKaro from "./componet/WhyRegisterKaro.jsx";
-import AskQuestions from "./componet/askQuestions .jsx";
+import AskQuestions from "./componet/askQuestions.jsx";
 import Collaboration from "./componet/collaboration.jsx";
 import VideoIntro from "./componet/VideoIntro.jsx";
 import Testimonial from "./componet/Testimonial.jsx";
